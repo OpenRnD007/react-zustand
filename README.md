@@ -5,6 +5,7 @@ Welcome to the React Zustand E-Commerce Store! This repository is a comprehensiv
 ## Key Features
 
 •  [**Product Display**](): Showcases products with images, names, descriptions, star ratings, and an 'Add to Cart' button.
+
 •  [**Shopping Cart**](): Manages products added to the cart, displays an order summary, and integrates checkout functionality.
 
 
@@ -12,9 +13,13 @@ Welcome to the React Zustand E-Commerce Store! This repository is a comprehensiv
 
 Our project harnesses the power of modern web technologies:
 •  [**React + TypeScript**](https://react.dev/): For building robust and type-safe user interfaces.
+
 •  [**Tailwind CSS**](https://tailwindcss.com/): For stylish, responsive layouts with minimal effort.
+
 •  [**Zustand**](https://zustand-demo.pmnd.rs/): A simple, yet powerful state management solution.
+
 •  [**Vite**](https://vitejs.dev/): An incredibly fast frontend build tool.
+
 •  [**Cypress**](https://www.cypress.io/): For end-to-end testing, ensuring our components work flawlessly.
 
 
