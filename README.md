@@ -4,9 +4,9 @@ Welcome to the React Zustand E-Commerce Store! This repository is a comprehensiv
 
 ## Key Features
 
-•  [**Product Display**](): Showcases products with images, names, descriptions, star ratings, and an 'Add to Cart' button.
+•  [**Product Display**](https://react-zustand-five.vercel.app/): Showcases products with images, names, descriptions, star ratings, and an 'Add to Cart' button.
 
-•  [**Shopping Cart**](): Manages products added to the cart, displays an order summary, and integrates checkout functionality.
+•  [**Shopping Cart**](https://react-zustand-five.vercel.app/): Manages products added to the cart, displays an order summary, and integrates checkout functionality.
 
 
 ## Technology Stack
