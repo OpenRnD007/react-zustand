@@ -12,6 +12,7 @@ Welcome to the React Zustand E-Commerce Store! This repository is a comprehensiv
 ## Technology Stack
 
 Our project harnesses the power of modern web technologies:
+
 •  [**React + TypeScript**](https://react.dev/): For building robust and type-safe user interfaces.
 
 •  [**Tailwind CSS**](https://tailwindcss.com/): For stylish, responsive layouts with minimal effort.
